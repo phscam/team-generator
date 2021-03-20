@@ -1,0 +1,21 @@
+{
+  "name": "team-generator",
+  "description": "CLI Application to generate equally sized and randomly assigned teams.",
+  "authors": [
+    {
+      "name": "Philipp Scambor",
+      "email": "philipp.scambor@vol.at",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "illuminate/support": "^8.32"
+  },
+  "autoload": {
+    "psr-4": {"TeamGenerator\\": "src/"}
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5",
+    "amenadiel/jpgraph": "^4.0"
+  }
+}
