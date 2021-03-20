@@ -9,7 +9,6 @@ class Generator
   const MIN_TEAM_SIZE = 1;
   private $members;
   private $amountTeams;
-  private $teams;
   
 
   public function init($amountTeams, $members)
