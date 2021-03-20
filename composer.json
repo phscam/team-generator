@@ -1,5 +1,5 @@
 {
-  "name": "team-generator",
+  "name": "phscam/team-generator",
   "description": "CLI Application to generate equally sized and randomly assigned teams.",
   "authors": [
     {
