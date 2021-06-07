@@ -3,8 +3,7 @@
   "description": "CLI Application to generate equally sized and randomly assigned teams.",
   "authors": [
     {
-      "name": "Philipp Scambor",
-      "email": "philipp.scambor@vol.at",
+      "name": "phscam @ github",
       "role": "Developer"
     }
   ],
